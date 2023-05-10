@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Myo-Myint=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Myo-Myint's GitHub stats](https://github-readme-stats.vercel.app/api?username=Myo-Myint&hide=contribs,prs)
